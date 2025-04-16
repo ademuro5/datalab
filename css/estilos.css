@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(252, 252, 255);
+    color: #000000;
+}
+
+p {
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+h1, h2, h3, h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    text-transform: capitalize;
+    color: #0077cc;
+    background-color: #00000038;
+}
+
+h2 {
+    
+    color: #005599;
+    text-decoration:underline;
+}
+
+h3 {
+    color: #a40000;
+}
+
+a {
+    color: #a40000;
+    text-decoration: none;
+
+}
+
+img {
+    width: 33%;
+    border-radius: px;
+    display: block;
+    margin: 15px auto;
+}
